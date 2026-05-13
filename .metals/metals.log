@@ -332,3 +332,286 @@ INFO: Unsupported notification method: $/setTrace
 2026.05.13 22:39:36 INFO  Memory monitor started
 2026.05.13 22:39:37 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
 2026.05.13 22:39:37 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java. Using fallback presentation compiler.
+2026.05.13 22:39:38 WARN  no build tool detected in workspace 'C:\Users\Dell\Documents\CIT_TEST'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.05.13 22:39:39 WARN  Build server is not auto-connectable.
+2026.05.13 22:39:39 WARN  no build target for: C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java
+2026.05.13 22:39:39 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java. Using fallback presentation compiler.
+2026.05.13 22:39:39 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java. Using fallback presentation compiler.
+2026.05.13 22:39:41 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Bird.java. Using fallback presentation compiler.
+2026.05.13 22:39:41 WARN  no build target for: C:\Users\Dell\Documents\CIT_TEST\demo12\Bird.java
+2026.05.13 22:39:41 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Bird.java. Using fallback presentation compiler.
+May 13, 2026 10:39:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2026.05.13 22:39:41 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Bird.java. Using fallback presentation compiler.
+May 13, 2026 10:39:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+May 13, 2026 10:39:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+May 13, 2026 10:39:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+May 13, 2026 10:39:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2026.05.13 22:39:41 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Bird.java. Using fallback presentation compiler.
+2026.05.13 22:39:41 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java. Using fallback presentation compiler.
+2026.05.13 22:39:42 WARN  no build target for: C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java
+2026.05.13 22:39:42 INFO  time: code lens generation in 3.27s
+2026.05.13 22:39:42 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java. Using fallback presentation compiler.
+May 13, 2026 10:39:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+2026.05.13 22:39:41 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java. Using fallback presentation compiler.
+2026.05.13 22:39:41 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java. Using fallback presentation compiler.
+2026.05.13 22:39:43 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java. Using fallback presentation compiler.
+2026.05.13 22:39:43 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java. Using fallback presentation compiler.
+2026.05.13 22:39:43 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java. Using fallback presentation compiler.
+2026.05.13 22:39:43 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java. Using fallback presentation compiler.
+May 13, 2026 10:39:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25
+May 13, 2026 10:39:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26
+May 13, 2026 10:39:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27
+2026.05.13 22:39:43 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java. Using fallback presentation compiler.
+2026.05.13 22:39:45 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java. Using fallback presentation compiler.
+2026.05.13 22:39:51 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java. Using fallback presentation compiler.
+2026.05.13 22:39:52 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java. Using fallback presentation compiler.
+2026.05.13 22:46:11 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java. Using fallback presentation compiler.
+2026.05.13 22:46:11 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java. Using fallback presentation compiler.
+2026.05.13 22:46:16 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java. Using fallback presentation compiler.
+2026.05.13 22:46:16 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java. Using fallback presentation compiler.
+2026.05.13 22:46:19 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java. Using fallback presentation compiler.
+2026.05.13 22:46:20 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java. Using fallback presentation compiler.
+2026.05.13 22:46:20 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java. Using fallback presentation compiler.
+2026.05.13 22:50:00 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java. Using fallback presentation compiler.
+2026.05.13 22:50:01 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java. Using fallback presentation compiler.
+2026.05.13 22:50:01 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java. Using fallback presentation compiler.
+2026.05.13 22:50:01 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java. Using fallback presentation compiler.
+2026.05.13 22:50:05 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java. Using fallback presentation compiler.
+2026.05.13 22:50:05 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java. Using fallback presentation compiler.
+2026.05.13 22:50:07 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java. Using fallback presentation compiler.
+2026.05.13 22:50:07 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java. Using fallback presentation compiler.
+2026.05.13 22:56:21 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java. Using fallback presentation compiler.
+2026.05.13 22:56:22 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java. Using fallback presentation compiler.
+2026.05.13 23:08:17 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Book.java. Using fallback presentation compiler.
+2026.05.13 23:08:17 WARN  no build target for: C:\Users\Dell\Documents\CIT_TEST\demo12\Pet.java
+2026.05.13 23:08:17 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Pet.java. Using fallback presentation compiler.
+2026.05.13 23:08:17 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Pet.java. Using fallback presentation compiler.
+2026.05.13 23:08:17 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Pet.java. Using fallback presentation compiler.
+2026.05.13 23:08:17 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Pet.java. Using fallback presentation compiler.
+2026.05.13 23:08:17 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Pet.java. Using fallback presentation compiler.
+2026.05.13 23:08:20 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Pet.java. Using fallback presentation compiler.
+2026.05.13 23:08:20 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Pet.java. Using fallback presentation compiler.
+2026.05.13 23:08:40 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Pet.java. Using fallback presentation compiler.
+2026.05.13 23:08:40 WARN  no build target for: C:\Users\Dell\Documents\CIT_TEST\demo12\Dog.java
+2026.05.13 23:08:40 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Dog.java. Using fallback presentation compiler.
+2026.05.13 23:08:40 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Dog.java. Using fallback presentation compiler.
+2026.05.13 23:08:40 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Dog.java. Using fallback presentation compiler.
+2026.05.13 23:08:40 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Dog.java. Using fallback presentation compiler.
+2026.05.13 23:08:41 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Dog.java. Using fallback presentation compiler.
+2026.05.13 23:08:41 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Dog.java. Using fallback presentation compiler.
+2026.05.13 23:08:53 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Dog.java. Using fallback presentation compiler.
+2026.05.13 23:08:53 WARN  no build target for: C:\Users\Dell\Documents\CIT_TEST\demo12\Cat.java
+2026.05.13 23:08:53 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Cat.java. Using fallback presentation compiler.
+2026.05.13 23:08:54 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Cat.java. Using fallback presentation compiler.
+2026.05.13 23:08:53 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Cat.java. Using fallback presentation compiler.
+2026.05.13 23:08:54 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Cat.java. Using fallback presentation compiler.
+2026.05.13 23:08:53 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Cat.java. Using fallback presentation compiler.
+2026.05.13 23:08:56 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Cat.java. Using fallback presentation compiler.
+2026.05.13 23:08:56 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Cat.java. Using fallback presentation compiler.
+2026.05.13 23:08:57 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Cat.java. Using fallback presentation compiler.
+2026.05.13 23:08:57 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Cat.java. Using fallback presentation compiler.
+2026.05.13 23:09:02 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Cat.java. Using fallback presentation compiler.
+2026.05.13 23:09:02 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Cat.java. Using fallback presentation compiler.
+2026.05.13 23:09:02 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Cat.java. Using fallback presentation compiler.
+2026.05.13 23:09:03 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Cat.java. Using fallback presentation compiler.
+2026.05.13 23:09:02 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Cat.java. Using fallback presentation compiler.
+2026.05.13 23:09:14 WARN  no build target for: C:\Users\Dell\Documents\CIT_TEST\demo12\Bird.java
+2026.05.13 23:09:14 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Bird.java. Using fallback presentation compiler.
+2026.05.13 23:09:14 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Bird.java. Using fallback presentation compiler.
+2026.05.13 23:09:14 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Bird.java. Using fallback presentation compiler.
+2026.05.13 23:09:14 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Bird.java. Using fallback presentation compiler.
+2026.05.13 23:09:15 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Bird.java. Using fallback presentation compiler.
+2026.05.13 23:09:15 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Bird.java. Using fallback presentation compiler.
+2026.05.13 23:09:15 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Bird.java. Using fallback presentation compiler.
+2026.05.13 23:09:16 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Bird.java. Using fallback presentation compiler.
+2026.05.13 23:09:15 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Bird.java. Using fallback presentation compiler.
+2026.05.13 23:09:17 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Bird.java. Using fallback presentation compiler.
+2026.05.13 23:09:17 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Bird.java. Using fallback presentation compiler.
+2026.05.13 23:09:17 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Bird.java. Using fallback presentation compiler.
+2026.05.13 23:09:17 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Bird.java. Using fallback presentation compiler.
+2026.05.13 23:10:11 WARN  no build target for: C:\Users\Dell\Documents\CIT_TEST\demo12\PetFactory.java
+2026.05.13 23:10:11 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\PetFactory.java. Using fallback presentation compiler.
+2026.05.13 23:10:11 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\PetFactory.java. Using fallback presentation compiler.
+2026.05.13 23:10:11 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\PetFactory.java. Using fallback presentation compiler.
+2026.05.13 23:10:11 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\PetFactory.java. Using fallback presentation compiler.
+2026.05.13 23:10:13 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\PetFactory.java. Using fallback presentation compiler.
+2026.05.13 23:10:13 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\PetFactory.java. Using fallback presentation compiler.
+2026.05.13 23:11:52 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\PetFactory.java. Using fallback presentation compiler.
+2026.05.13 23:11:52 WARN  no build target for: C:\Users\Dell\Documents\CIT_TEST\demo12\Home.java
+2026.05.13 23:11:52 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Home.java. Using fallback presentation compiler.
+2026.05.13 23:11:52 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Home.java. Using fallback presentation compiler.
+2026.05.13 23:11:52 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Home.java. Using fallback presentation compiler.
+2026.05.13 23:11:53 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Home.java. Using fallback presentation compiler.
+2026.05.13 23:11:52 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Home.java. Using fallback presentation compiler.
+2026.05.13 23:11:52 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Home.java. Using fallback presentation compiler.
+2026.05.13 23:11:54 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Home.java. Using fallback presentation compiler.
+2026.05.13 23:11:54 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Home.java. Using fallback presentation compiler.
+2026.05.13 23:14:02 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Home.java. Using fallback presentation compiler.
+2026.05.13 23:14:02 WARN  no build target for: C:\Users\Dell\Documents\CIT_TEST\demo12\Student.java
+2026.05.13 23:14:02 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Student.java. Using fallback presentation compiler.
+2026.05.13 23:14:02 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Student.java. Using fallback presentation compiler.
+May 13, 2026 11:14:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 176
+2026.05.13 23:14:02 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Student.java. Using fallback presentation compiler.
+2026.05.13 23:14:02 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Student.java. Using fallback presentation compiler.
+2026.05.13 23:14:02 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Student.java. Using fallback presentation compiler.
+2026.05.13 23:14:03 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Student.java. Using fallback presentation compiler.
+2026.05.13 23:14:03 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Student.java. Using fallback presentation compiler.
+2026.05.13 23:14:03 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Student.java. Using fallback presentation compiler.
+2026.05.13 23:14:03 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Student.java. Using fallback presentation compiler.
+2026.05.13 23:14:03 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Student.java. Using fallback presentation compiler.
+2026.05.13 23:14:04 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Student.java. Using fallback presentation compiler.
+2026.05.13 23:14:17 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Student.java. Using fallback presentation compiler.
+2026.05.13 23:14:18 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Student.java. Using fallback presentation compiler.
+2026.05.13 23:14:18 WARN  no build target for: C:\Users\Dell\Documents\CIT_TEST\demo12\UndergraduateStudent.java
+2026.05.13 23:14:18 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\UndergraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:14:18 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\UndergraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:14:18 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\UndergraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:14:19 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\UndergraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:14:18 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\UndergraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:14:18 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\UndergraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:14:19 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\UndergraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:14:20 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\UndergraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:14:20 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\UndergraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:14:32 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\UndergraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:14:35 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\UndergraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:14:35 WARN  no build target for: C:\Users\Dell\Documents\CIT_TEST\demo12\GraduateStudent.java
+2026.05.13 23:14:35 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\GraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:14:35 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\GraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:14:35 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\GraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:14:36 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\GraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:14:35 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\GraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:14:41 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\GraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:14:41 WARN  no build target for: C:\Users\Dell\Documents\CIT_TEST\demo12\UndergraduateStudent.java
+2026.05.13 23:14:41 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\UndergraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:14:41 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\UndergraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:14:41 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\UndergraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:14:41 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\UndergraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:14:41 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\UndergraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:14:41 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\UndergraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:14:41 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\UndergraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:14:43 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\UndergraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:14:43 WARN  no build target for: C:\Users\Dell\Documents\CIT_TEST\demo12\School.java
+2026.05.13 23:14:43 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\School.java. Using fallback presentation compiler.
+2026.05.13 23:14:43 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\School.java. Using fallback presentation compiler.
+2026.05.13 23:14:43 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\School.java. Using fallback presentation compiler.
+2026.05.13 23:14:43 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\School.java. Using fallback presentation compiler.
+2026.05.13 23:14:43 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\School.java. Using fallback presentation compiler.
+2026.05.13 23:14:43 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\School.java. Using fallback presentation compiler.
+2026.05.13 23:14:46 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\School.java. Using fallback presentation compiler.
+2026.05.13 23:14:46 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\School.java. Using fallback presentation compiler.
+2026.05.13 23:14:50 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\School.java. Using fallback presentation compiler.
+2026.05.13 23:14:50 WARN  no build target for: C:\Users\Dell\Documents\CIT_TEST\demo12\GraduateStudent.java
+2026.05.13 23:14:50 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\GraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:14:50 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\GraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:14:50 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\GraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:14:50 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\GraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:14:50 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\GraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:14:51 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\GraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:14:53 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\GraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:14:54 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\GraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:14:54 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\GraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:15:13 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\GraduateStudent.java. Using fallback presentation compiler.
+2026.05.13 23:15:13 WARN  no build target for: C:\Users\Dell\Documents\CIT_TEST\demo12\SimpleFactory.java
+2026.05.13 23:15:13 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\SimpleFactory.java. Using fallback presentation compiler.
+2026.05.13 23:15:13 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\SimpleFactory.java. Using fallback presentation compiler.
+2026.05.13 23:15:13 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\SimpleFactory.java. Using fallback presentation compiler.
+2026.05.13 23:15:14 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\SimpleFactory.java. Using fallback presentation compiler.
+2026.05.13 23:15:13 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\SimpleFactory.java. Using fallback presentation compiler.
+2026.05.13 23:15:13 WARN  no build target for: C:\Users\Dell\Documents\CIT_TEST\demo12\School.java
+2026.05.13 23:15:13 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\School.java. Using fallback presentation compiler.
+2026.05.13 23:15:14 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\School.java. Using fallback presentation compiler.
+2026.05.13 23:15:13 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\School.java. Using fallback presentation compiler.
+2026.05.13 23:15:14 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\School.java. Using fallback presentation compiler.
+2026.05.13 23:15:15 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\School.java. Using fallback presentation compiler.
+2026.05.13 23:15:14 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\School.java. Using fallback presentation compiler.
+2026.05.13 23:15:16 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\School.java. Using fallback presentation compiler.
+2026.05.13 23:15:16 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\School.java. Using fallback presentation compiler.
+2026.05.13 23:15:18 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\School.java. Using fallback presentation compiler.
+2026.05.13 23:15:18 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\School.java. Using fallback presentation compiler.
+2026.05.13 23:15:18 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\School.java. Using fallback presentation compiler.
+2026.05.13 23:15:18 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\School.java. Using fallback presentation compiler.
+2026.05.13 23:15:18 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\School.java. Using fallback presentation compiler.
+2026.05.13 23:15:20 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\School.java. Using fallback presentation compiler.
+2026.05.13 23:15:20 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\School.java. Using fallback presentation compiler.
+2026.05.13 23:15:20 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\School.java. Using fallback presentation compiler.
+2026.05.13 23:15:20 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\School.java. Using fallback presentation compiler.
+2026.05.13 23:15:20 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\School.java. Using fallback presentation compiler.
+2026.05.13 23:17:02 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\School.java. Using fallback presentation compiler.
+2026.05.13 23:17:02 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\School.java. Using fallback presentation compiler.
+2026.05.13 23:17:05 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Bird.java. Using fallback presentation compiler.
+2026.05.13 23:17:05 WARN  no build target for: C:\Users\Dell\Documents\CIT_TEST\demo12\Bird.java
+2026.05.13 23:17:05 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Bird.java. Using fallback presentation compiler.
+2026.05.13 23:17:05 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Bird.java. Using fallback presentation compiler.
+2026.05.13 23:17:05 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Bird.java. Using fallback presentation compiler.
+2026.05.13 23:17:05 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Bird.java. Using fallback presentation compiler.
+2026.05.13 23:17:06 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Bird.java. Using fallback presentation compiler.
+2026.05.13 23:17:06 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Bird.java. Using fallback presentation compiler.
+2026.05.13 23:17:09 WARN  no build target for: C:\Users\Dell\Documents\CIT_TEST\demo12\Bird.java
+2026.05.13 23:17:09 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Bird.java. Using fallback presentation compiler.
+2026.05.13 23:17:12 WARN  no build target for: C:\Users\Dell\Documents\CIT_TEST\demo12\Bird.java
+2026.05.13 23:17:12 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Bird.java. Using fallback presentation compiler.
+2026.05.13 23:17:21 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Cat.java. Using fallback presentation compiler.
+2026.05.13 23:17:21 WARN  no build target for: C:\Users\Dell\Documents\CIT_TEST\demo12\Cat.java
+2026.05.13 23:17:21 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Cat.java. Using fallback presentation compiler.
+2026.05.13 23:17:21 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Cat.java. Using fallback presentation compiler.
+2026.05.13 23:17:21 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Cat.java. Using fallback presentation compiler.
+2026.05.13 23:17:21 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Cat.java. Using fallback presentation compiler.
+2026.05.13 23:17:23 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Cat.java. Using fallback presentation compiler.
+2026.05.13 23:17:23 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Cat.java. Using fallback presentation compiler.
+May 13, 2026 11:17:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/Dell/Documents/CIT_TEST/demo/git_test/target/test-classes/com/example/AppTest.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:213)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+2026.05.13 23:17:33 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Bird.java. Using fallback presentation compiler.
+2026.05.13 23:17:33 WARN  no build target for: C:\Users\Dell\Documents\CIT_TEST\demo12\Bird.java
+2026.05.13 23:17:33 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Bird.java. Using fallback presentation compiler.
+2026.05.13 23:17:34 WARN  no build target for: C:\Users\Dell\Documents\CIT_TEST\demo12\Dog.java
+2026.05.13 23:17:34 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Dog.java. Using fallback presentation compiler.
+2026.05.13 23:17:34 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Dog.java. Using fallback presentation compiler.
+2026.05.13 23:17:34 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Dog.java. Using fallback presentation compiler.
+2026.05.13 23:17:36 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Cat.java. Using fallback presentation compiler.
+2026.05.13 23:17:36 WARN  no build target for: C:\Users\Dell\Documents\CIT_TEST\demo12\Cat.java
+2026.05.13 23:17:36 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Cat.java. Using fallback presentation compiler.
+2026.05.13 23:17:36 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Cat.java. Using fallback presentation compiler.
+2026.05.13 23:17:36 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Cat.java. Using fallback presentation compiler.
+2026.05.13 23:17:36 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Cat.java. Using fallback presentation compiler.
+2026.05.13 23:35:19 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Cat.java. Using fallback presentation compiler.
+2026.05.13 23:35:24 INFO  no build target found for C:\Users\Dell\Documents\CIT_TEST\demo12\Cat.java. Using fallback presentation compiler.
